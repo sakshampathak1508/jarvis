@@ -69,5 +69,5 @@ user info for additional functianlity of whatsapp messaging and sending emails
     and it will be done in a span of maximam 30 seconds
     
 10. Quit or exit from jarvis help:
-    simply say "Quit jarvis" to turn off the jravis and exit from the code
+    simply say "Quit jarvis" to turn off the jarvis and exit from the code
 
